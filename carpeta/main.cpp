@@ -5,12 +5,10 @@ using std::endl;
 using std::string;
 
 int main() {
-  int valor;
-  cin >> valor;
-  for (int i = 0; i < valor; i++) {
-    cout << i << endl;
-  }
-  cout << "Hello";
-  cout << endl;
+  int s;
+  cout << "Tamaño: ";
+  cin >> s;
+  int *lista = new int[s];
+  delete[] lista;
   return 0;
 }
