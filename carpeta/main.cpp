@@ -5,10 +5,18 @@ using std::endl;
 using std::string;
 
 int main() {
-  int s;
-  cout << "Tamaño: ";
-  cin >> s;
-  int *lista = new int[s];
-  delete[] lista;
+  int n;
+  cout << "N: ";
+  cin >> n;
+  for (int i = 0; i < n; i++) {
+    for (int j = 0; j < n; j++) {
+      if (i == 0 || i == n - 1 || j == 0 || j == n - 1) {
+        cout << "* ";
+      } else {
+        cout << "  ";
+      }
+    }
+    cout << endl;
+  }
   return 0;
 }
