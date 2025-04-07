@@ -1,0 +1,3 @@
+/home/kato/Desktop/EDO/build/CMakeFiles/mi_programa.dir
+/home/kato/Desktop/EDO/build/CMakeFiles/edit_cache.dir
+/home/kato/Desktop/EDO/build/CMakeFiles/rebuild_cache.dir

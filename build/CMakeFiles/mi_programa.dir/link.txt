@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mi_programa.dir/carpeta/main.cpp.o -o mi_programa 
