@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/kato/Desktop/EDO/build",
+  "command": "/usr/bin/g++ -g -std=gnu++17 -o CMakeFiles/mi_programa.dir/carpeta/main.cpp.o -c /home/kato/Desktop/EDO/carpeta/main.cpp",
+  "file": "/home/kato/Desktop/EDO/carpeta/main.cpp",
+  "output": "CMakeFiles/mi_programa.dir/carpeta/main.cpp.o"
+}
+]

@@ -1,22 +1,5 @@
 #include <iostream>
-using std::cin;
-using std::cout;
-using std::endl;
-using std::string;
+using namespace std;
+const double PI = 3.1415;
 
-int main() {
-  int n;
-  cout << "N: ";
-  cin >> n;
-  for (int i = 0; i < n; i++) {
-    for (int j = 0; j < n; j++) {
-      if (i == 0 || i == n - 1 || j == 0 || j == n - 1) {
-        cout << "* ";
-      } else {
-        cout << "  ";
-      }
-    }
-    cout << endl;
-  }
-  return 0;
-}
+int main() { cout << "Ingrese su valor inicial: "; }
